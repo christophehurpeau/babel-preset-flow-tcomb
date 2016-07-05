@@ -1,0 +1,30 @@
+{
+  "name": "babel-preset-flow-tcomb",
+  "version": "1.0.0",
+  "description": "Babel preset for flow with tcomb runtime check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/babel-preset-flow-tcomb.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-preset",
+    "flow",
+    "tcomb"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/babel-preset-flow-tcomb/issues"
+  },
+  "homepage": "https://github.com/christophehurpeau/babel-preset-flow-tcomb#readme",
+  "dependencies": {
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-tcomb": "^0.3.3",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0"
+  }
+}
