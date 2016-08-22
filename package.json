@@ -24,7 +24,7 @@
   "homepage": "https://github.com/christophehurpeau/babel-preset-flow-tcomb#readme",
   "dependencies": {
     "babel-plugin-syntax-flow": "^6.13.0",
-    "babel-plugin-tcomb": "^0.3.10",
+    "babel-plugin-tcomb": "^0.3.11",
     "babel-plugin-transform-flow-strip-types": "^6.8.0"
   }
 }
