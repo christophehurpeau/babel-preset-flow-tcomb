@@ -1,13 +1,14 @@
-# babel-preset-flow-tcomb [![NPM version][npm-image]][npm-url]
+# babel-preset-flow-tcomb-forked [![NPM version][npm-image]][npm-url]
 
 Babel preset for flow with tcomb runtime check
 
-For the forked version, using [tcomb-forked](https://www.npmjs.com/package/tcomb-forked), go to [babel-preset-flow-tcomb-forked](https://www.npmjs.com/package/babel-preset-flow-tcomb-forked) 
+This is using the [forked version of tcomb](https://npmjs.org/package/tcomb-forked)
+and the [forked version of babel-plugin-tcomb](https://npmjs.org/package/babel-plugin-tcomb-forked)
 
 ### How to install
 
 ```sh
-npm install --save tcomb && npm install --save-dev babel-preset-flow-tcomb
+npm install --save tcomb-forked && npm install --save-dev babel-preset-flow-tcomb-forked
 ```
 
 
@@ -16,10 +17,10 @@ npm install --save tcomb && npm install --save-dev babel-preset-flow-tcomb
 
 ```js
 {
-  "presets": ["flow-tcomb"]
+  "presets": ["flow-tcomb-forked"]
 }
 ```
 
 
-[npm-image]: https://img.shields.io/npm/v/babel-preset-flow-tcomb.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/babel-preset-flow-tcomb
+[npm-image]: https://img.shields.io/npm/v/babel-preset-flow-tcomb-forked.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/babel-preset-flow-tcomb-forked
