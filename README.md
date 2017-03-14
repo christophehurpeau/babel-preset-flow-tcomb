@@ -1,5 +1,7 @@
 # babel-preset-flow-tcomb [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-preset-flow-tcomb.svg)](https://greenkeeper.io/)
+
 Babel preset for flow with tcomb runtime check
 
 For the forked version, using [tcomb-forked](https://www.npmjs.com/package/tcomb-forked), go to [babel-preset-flow-tcomb-forked](https://www.npmjs.com/package/babel-preset-flow-tcomb-forked) 
